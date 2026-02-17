@@ -6,7 +6,7 @@ Experienced in API development, authentication systems, database modeling, and c
 
 🚀 Core Technical Skills
 
-Backend Development
+**Backend Development**
 
 Python
 
@@ -22,7 +22,7 @@ Layered Architecture (Routes → Services → Models)
 
 Data validation (Pydantic)
 
-Authentication & Security
+**Authentication & Security**
 
 JWT Authentication
 
@@ -38,7 +38,7 @@ Environment configuration (.env)
 
 Secure API design principles
 
-Database & Data Modeling
+**Database & Data Modeling**
 
 MySQL
 
@@ -56,7 +56,7 @@ Pagination implementation
 
 Transaction management
 
-Software Engineering Practices
+**Software Engineering Practices**
 
 Clean Code principles
 
@@ -77,7 +77,7 @@ Tech Stack: Python · FastAPI · MySQL · SQLAlchemy · JWT
 
 Production-style backend system designed for retail operations.
 
-Implemented:
+**Implemented:**
 
 RESTful API endpoints
 
@@ -97,7 +97,7 @@ Structured exception handling
 
 Layered architecture pattern
 
-Backend Concepts Demonstrated:
+**Backend Concepts Demonstrated:**
 
 API security implementation
 
@@ -115,13 +115,13 @@ Frontend
 HTML · CSS · JavaScript
 Responsive institutional website with structured UI architecture.
 
-Backend (Admin Dashboard System)
+**Backend (Admin Dashboard System)**
 
 Tech Stack: Python · FastAPI · MySQL · JWT
 
 Secure backend system supporting internal administrative operations.
 
-Implemented:
+**Implemented:**
 
 Login system with JWT authentication
 
@@ -139,7 +139,7 @@ Environment-based configuration
 
 API route protection middleware
 
-Backend Concepts Demonstrated:
+**Backend Concepts Demonstrated:**
 
 Authentication & Authorization architecture
 
@@ -159,7 +159,7 @@ Tech Stack: Python · FastAPI · SQLite · JWT
 
 Authenticated REST API allowing users to manage private resources.
 
-Implemented:
+**Implemented:**
 
 Token-based authentication
 
@@ -171,7 +171,7 @@ Pagination with query parameters
 
 Structured response models
 
-Backend Concepts Demonstrated:
+**Backend Concepts Demonstrated:**
 
 API design best practices
 
