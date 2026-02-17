@@ -1,4 +1,4 @@
-👋 Marcos Farid
+👋 Farid Salomon
 <u>Backend Developer – Python | FastAPI | REST APIs</u>
 
 Backend Developer focused on designing and implementing <u>secure, scalable backend systems</u> using Python and modern API standards.
