@@ -1,211 +1,202 @@
-👋 Marcos Salomon – Backend Developer (Python / FastAPI)
+👋 Marcos Farid
+<u>Backend Developer – Python | FastAPI | REST APIs</u>
 
-Backend Developer focused on designing and implementing secure, scalable RESTful APIs and business-oriented backend systems using Python.
+Backend Developer focused on designing and implementing <u>secure, scalable backend systems</u> using Python and modern API standards.
 
-Experienced in API development, authentication systems, database modeling, and clean architecture patterns. Strong focus on production-ready code, security best practices, and structured backend design.
+I build production-oriented applications with authentication, authorization, database modeling, and clean architecture principles.
 
-🚀 Core Technical Skills
+---
 
-**Backend Development**
+🚀 Professional Focus
+
+<u>RESTful API Development</u>
+
+<u>JWT Authentication & Authorization</u>
+
+Relational Database Design (MySQL / SQLite)
+
+Clean Layered Architecture
+
+Business Logic Implementation
+
+Secure Endpoint Protection
+
+---
+
+🛠 Technical Stack
+<u>Backend Development</u>
 
 Python
 
 FastAPI
 
-RESTful API design
+SQLAlchemy
 
-CRUD operations
+Pydantic
 
-Dependency Injection
+REST API Design
 
-Layered Architecture (Routes → Services → Models)
+CRUD Operations
 
-Data validation (Pydantic)
+Security & Authentication
 
-**Authentication & Security**
-
-JWT Authentication
+<u>JWT Authentication</u>
 
 Role-Based Access Control (RBAC)
 
-Authorization middleware
+Password Hashing (bcrypt)
 
-Password hashing (bcrypt)
+Protected Routes
 
-Protected routes
+Environment Configuration (.env)
 
-Environment configuration (.env)
-
-Secure API design principles
-
-**Database & Data Modeling**
+<u>Database & Data Handling</u>
 
 MySQL
 
 SQLite
 
-SQLAlchemy ORM
+Relational Schema Design
 
-Relational database design
+Pagination & Query Filtering
 
-Database normalization
+Transaction Handling
 
-Query optimization
+---
 
-Pagination implementation
+🚀 Featured Projects
+🧾 POS & Inventory Management System
 
-Transaction management
+<u>Production-style Backend System</u> built for retail business operations.
 
-**Software Engineering Practices**
+Tech: Python · FastAPI · MySQL · SQLAlchemy · JWT
 
-Clean Code principles
+Implemented:
 
-Separation of concerns
-
-Error handling & exception management
-
-Version control (Git)
-
-API documentation (OpenAPI / Swagger)
-
-Production-oriented project structure
-
-💼 Featured Projects
-🧾 POS & Inventory Management System (Backend)
-
-Tech Stack: Python · FastAPI · MySQL · SQLAlchemy · JWT
-
-Production-style backend system designed for retail operations.
-
-**Implemented:**
-
-RESTful API endpoints
-
-JWT authentication flow
+Secure login with JWT
 
 Role-based authorization (Admin / Cashier)
 
-Sales transaction handling
+Sales transaction handling with automatic stock deduction
 
-Automatic stock deduction logic
-
-Purchase flow with stock increment
+Purchase workflow with stock increment
 
 Pagination for large datasets
 
 Structured exception handling
 
-Layered architecture pattern
+Clean layered architecture (Routes → Services → Models → DB)
 
-**Backend Concepts Demonstrated:**
+Demonstrates:
 
-API security implementation
+Backend architecture design
 
 Business logic separation
 
-Database schema design
-
 Transaction consistency
 
-Scalable backend architecture
+Secure API development
+
+---
 
 🌐 OSP AAT – Full Stack Institutional Platform
 Frontend
 
 HTML · CSS · JavaScript
-Responsive institutional website with structured UI architecture.
+Responsive institutional website with structured UI and clean layout design.
 
-**Backend (Admin Dashboard System)**
+Backend – <u>Admin Dashboard & Secure Management System</u>
 
-Tech Stack: Python · FastAPI · MySQL · JWT
+Tech: Python · FastAPI · MySQL · JWT
 
-Secure backend system supporting internal administrative operations.
+Implemented:
 
-**Implemented:**
+<u>JWT Authentication Flow</u>
 
-Login system with JWT authentication
-
-Role-based authorization (Admin / Editor)
+Role-Based Authorization (Admin / Editor)
 
 Protected dashboard endpoints
 
 CRUD operations for content management
 
-Pagination and filtering
+Pagination & filtering logic
 
 Password hashing (bcrypt)
 
 Environment-based configuration
 
-API route protection middleware
+Layered backend architecture
 
-**Backend Concepts Demonstrated:**
+Demonstrates:
 
 Authentication & Authorization architecture
 
-Dashboard API structure
+Dashboard API structuring
 
-Secure endpoint management
+Secure route protection
 
-RESTful resource handling
+RESTful resource management
 
-Clean separation of layers
+Production-ready backend patterns
 
-Production-ready API structure
+---
 
 🔐 Secure Notes API
 
-Tech Stack: Python · FastAPI · SQLite · JWT
+Authenticated REST API for private resource management.
 
-Authenticated REST API allowing users to manage private resources.
+Tech: Python · FastAPI · SQLite · JWT
 
-**Implemented:**
+Implemented:
 
 Token-based authentication
 
-Protected endpoints
+Protected routes
 
-Full CRUD operations
+Full CRUD functionality
 
 Pagination with query parameters
 
 Structured response models
 
-**Backend Concepts Demonstrated:**
+Demonstrates:
 
-API design best practices
+API best practices
 
-Authentication flow control
+Authentication control flow
 
 Dependency injection
 
-Data validation & serialization
+Clean separation of concerns
 
-🏗 Backend Engineering Focus
+---
 
-Secure API development
+🧠 Engineering Philosophy
 
-Authentication & Authorization systems
+I focus on:
 
-Relational database modeling
+<u>Security-first backend development</u>
 
-Scalable backend architecture
+Clean code & maintainable structure
 
-Clean layered project structure
+Scalable architecture design
+
+Database normalization
 
 Production-ready configuration management
 
-🟢 I’m looking to collaborate on
-Backend API development projects, authentication systems, database-driven applications, and open-source Python tools.
+---
 
-🎯 Career Objective
-
-Seeking Junior Backend Developer / Python Developer opportunities where I can contribute to API development, backend architecture, and secure system design in production environments.
-
-📫 How to reach me
+📫 Contact
 
 GitHub: https://github.com/turkaym
 
 LinkedIn: www.linkedin.com/in/farid-salomon
 
 Email: faridsalomon90@gmail.com
+
+---
+
+🎯 Career Objective
+
+Seeking opportunities as a <u>Junior Backend Developer / Python Developer</u> where I can contribute to API development, backend architecture, and secure system design in real production environments.
