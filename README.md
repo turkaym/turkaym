@@ -1,202 +1,149 @@
-👋 Farid Salomon
-<u>Backend Developer – Python | FastAPI | REST APIs</u>
+# 👋 Farid Salomon
+## Backend Developer – Java | Spring Boot | REST APIs
 
-Backend Developer focused on designing and implementing <u>secure, scalable backend systems</u> using Python and modern API standards.
+Backend Developer focused on building reliable backend systems with Java, Spring Boot, REST APIs, persistence, and clean layered architecture.
 
-I build production-oriented applications with authentication, authorization, database modeling, and clean architecture principles.
+I work on production-oriented applications with backend services, database modeling, authentication, authorization, and maintainable project structure.
 
----
+## 🚀 Professional Focus
 
-🚀 Professional Focus
+- Java backend development
+- Spring Boot REST APIs
+- Clean layered architecture
+- Business logic implementation
+- Database-driven applications
+- Authentication and protected endpoints
+- Full stack product integration when needed
 
-<u>RESTful API Development</u>
+## 🛠 Technical Stack
 
-<u>JWT Authentication & Authorization</u>
+### Backend
 
-Relational Database Design (MySQL / SQLite)
+- Java
+- Spring Boot
+- Spring Web
+- Spring Security
+- Spring Data JPA
+- Hibernate / JPA
+- Maven
+- FastAPI / Python
 
-Clean Layered Architecture
+### Frontend
 
-Business Logic Implementation
+- React
+- TypeScript
+- Vite
+- Next.js
+- HTML
+- CSS
+- JavaScript
 
-Secure Endpoint Protection
+### Databases & Infrastructure
 
----
+- PostgreSQL
+- MySQL
+- Docker
+- Docker Compose
+- Nginx
+- Git & GitHub
+- Vercel
 
-🛠 Technical Stack
-<u>Backend Development</u>
+## 🚀 Featured Projects
 
-Python
+### 🛒 El Tano Ecommerce
 
-FastAPI
+Production-oriented ecommerce platform built with a React storefront and a Spring Boot backend API.
 
-SQLAlchemy
-
-Pydantic
-
-REST API Design
-
-CRUD Operations
-
-Security & Authentication
-
-<u>JWT Authentication</u>
-
-Role-Based Access Control (RBAC)
-
-Password Hashing (bcrypt)
-
-Protected Routes
-
-Environment Configuration (.env)
-
-<u>Database & Data Handling</u>
-
-MySQL
-
-SQLite
-
-Relational Schema Design
-
-Pagination & Query Filtering
-
-Transaction Handling
-
----
-
-🚀 Featured Projects
-🧾 POS & Inventory Management System
-
-<u>Production-style Backend System</u> built for retail business operations.
-
-Tech: Python · FastAPI · MySQL · SQLAlchemy · JWT
+**Tech:** Java 21 · Spring Boot · PostgreSQL · Flyway · React · TypeScript · Vite · Docker
 
 Implemented:
 
-Secure login with JWT
-
-Role-based authorization (Admin / Cashier)
-
-Sales transaction handling with automatic stock deduction
-
-Purchase workflow with stock increment
-
-Pagination for large datasets
-
-Structured exception handling
-
-Clean layered architecture (Routes → Services → Models → DB)
+- Product catalog and storefront flows
+- Cart and checkout structure
+- Admin operations for catalog and orders
+- PostgreSQL persistence with JPA repositories
+- Flyway database migrations
+- Spring Security with Basic Auth and CSRF protection
+- Docker-based production deployment
+- Nginx reverse proxy configuration
 
 Demonstrates:
 
-Backend architecture design
-
-Business logic separation
-
-Transaction consistency
-
-Secure API development
+- Java backend architecture
+- REST API development
+- Database persistence and migrations
+- Ecommerce business logic
+- Production deployment structure
 
 ---
 
-🌐 OSP AAT – Full Stack Institutional Platform
-Frontend
+### 🌐 OSP AAT Institutional Platform
 
-HTML · CSS · JavaScript
-Responsive institutional website with structured UI and clean layout design.
+Institutional website with an admin dashboard for managing news content.
 
-Backend – <u>Admin Dashboard & Secure Management System</u>
-
-Tech: Python · FastAPI · MySQL · JWT
+**Frontend:** HTML · CSS · JavaScript  
+**Backend:** Python · FastAPI · MySQL · JWT
 
 Implemented:
 
-<u>JWT Authentication Flow</u>
-
-Role-Based Authorization (Admin / Editor)
-
-Protected dashboard endpoints
-
-CRUD operations for content management
-
-Pagination & filtering logic
-
-Password hashing (bcrypt)
-
-Environment-based configuration
-
-Layered backend architecture
+- Public institutional website
+- Admin dashboard for news management
+- JWT authentication
+- Role-based access control
+- Protected admin endpoints
+- Password hashing with bcrypt
+- MySQL database integration
+- CRUD operations for content management
 
 Demonstrates:
 
-Authentication & Authorization architecture
-
-Dashboard API structuring
-
-Secure route protection
-
-RESTful resource management
-
-Production-ready backend patterns
+- Authentication and authorization flow
+- REST API design
+- Admin dashboard backend structure
+- Secure content management
+- Backend/frontend integration
 
 ---
 
-🔐 Secure Notes API
+### 💼 Personal Portfolio
 
-Authenticated REST API for private resource management.
+Personal portfolio built to present my backend focus, projects, technical stack, and contact channels.
 
-Tech: Python · FastAPI · SQLite · JWT
+**Tech:** Next.js · React · TypeScript · Tailwind CSS · Vercel
 
 Implemented:
 
-Token-based authentication
-
-Protected routes
-
-Full CRUD functionality
-
-Pagination with query parameters
-
-Structured response models
+- Bilingual portfolio in English and Spanish
+- Dark/light theme support
+- Responsive UI
+- Project showcase
+- Contact section
+- Deployment through Vercel
 
 Demonstrates:
 
-API best practices
+- Frontend implementation with React and Next.js
+- Clear technical positioning
+- Responsive interface design
+- Production deployment workflow
 
-Authentication control flow
-
-Dependency injection
-
-Clean separation of concerns
-
----
-
-🧠 Engineering Philosophy
+## 🧠 Engineering Philosophy
 
 I focus on:
 
-<u>Security-first backend development</u>
+- Building maintainable backend systems
+- Keeping business logic clear and separated
+- Designing reliable REST APIs
+- Working with clean project structure
+- Writing code that can grow with the product
+- Understanding the problem before writing the solution
 
-Clean code & maintainable structure
+## 📫 Contact
 
-Scalable architecture design
+- GitHub: https://github.com/turkaym
+- LinkedIn: www.linkedin.com/in/farid-salomon
+- Email: faridsalomon90@gmail.com
 
-Database normalization
+## 🎯 Career Objective
 
-Production-ready configuration management
-
----
-
-📫 Contact
-
-GitHub: https://github.com/turkaym
-
-LinkedIn: www.linkedin.com/in/farid-salomon
-
-Email: faridsalomon90@gmail.com
-
----
-
-🎯 Career Objective
-
-Seeking opportunities as a <u>Junior Backend Developer / Python Developer</u> where I can contribute to API development, backend architecture, and secure system design in real production environments.
+Seeking opportunities as a Junior Backend Developer / Java Developer where I can contribute to backend development, REST APIs, database-driven systems, and secure application architecture.
